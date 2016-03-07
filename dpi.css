@@ -1,0 +1,13 @@
+
+.img-box {
+   float: left;
+}
+
+.img-box img {
+   display: inline;
+}
+
+.img-caption {
+   background: gray;
+}
+

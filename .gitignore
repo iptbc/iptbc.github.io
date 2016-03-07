@@ -1,2 +1,4 @@
 *.html~
 .dpi.html.swp
+*.swp
+dpi.css~
